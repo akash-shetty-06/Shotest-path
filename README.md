@@ -23,7 +23,7 @@ This project is a visualization of the A* Path Finding Algorithm using Pygame. I
 
 2. **Navigate to the project directory**:
     ```sh
-    cd astar-pathfinding
+    cd shotestpath
     ```
 
 3. **Install Pygame**:
@@ -35,7 +35,7 @@ This project is a visualization of the A* Path Finding Algorithm using Pygame. I
 
 1. **Run the script**:
     ```sh
-    python astar.py
+    python code.py
     ```
 
 2. **Interact with the grid**:
