@@ -18,7 +18,7 @@ This project is a visualization of the A* Path Finding Algorithm using Pygame. I
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/astar-pathfinding.git
+    gh repo clone akash-shetty-06/Shotest-path
     ```
 
 2. **Navigate to the project directory**:
